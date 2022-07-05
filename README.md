@@ -14,4 +14,3 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceecisool&theme=radical)
-https://raw.githubusercontent.com/avinash-218/ceecisool/output/github-contribution-grid-snake.svg
