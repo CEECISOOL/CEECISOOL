@@ -1,9 +1,11 @@
 <h1>console.log("hello world!!")</h1>
 <h2>I'm Cecilia 👋</h2>
-<h3>A passionate Full-Stack developer with a BackEnd orientation from Argentina</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceecisol&label=Profile%20views&color=0e75b6&style=flat" alt="ceecisol" /> </p>
 
+<h3>A passionate Full-Stack developer with a BackEnd orientation from Argentina</h3>
+<p>I have the ability to be very curious and for that reason I am constantly learning, I also incorporate very quickly the different new concepts that I am learning day by day. 📝📝
+I am a developer who is always willing to teach her knowledge, listen to each constructive criticism in order to be better than yesterday and thus grow.✔
+My experience has been mainly in the academic field. I was acquiring knowledge in a self-taught way, with different courses, and I am still training at the University of Buenos Aires as a Computer Engineer.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ceecisool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceecisool" height="30" width="40" /></a>
