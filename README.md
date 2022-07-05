@@ -7,8 +7,9 @@
 I am a developer who is always willing to teach her knowledge, listen to each constructive criticism in order to be better than yesterday and thus grow.✔
 My experience has been mainly in the academic field. I was acquiring knowledge in a self-taught way, with different courses, and I am still training at the University of Buenos Aires as a Computer Engineer.</p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/ceecisool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceecisool" height="30" width="40" /></a>
+<a href="cbritez6@gmail.com" target="blank"><img align="center" src="https://www.itfluence.com/wp-content/uploads/2020/10/workspace-nuevo-icono-gmail-1.png" alt="ceecisool" height="35" width="50" /></a>
 </p>
 <img src="https://github.com/CEECISOOL/CEECISOOL/blob/main/well.gif" align="center" height="300"/>
 <h3 align="left">Languages and Tools:</h3>
